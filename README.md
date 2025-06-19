@@ -1,2 +1,2 @@
 # Simple-Flask-Auth
-A simple flask user authentication template
+A simple user authentication template for flask.
